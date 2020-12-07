@@ -1,0 +1,57 @@
+# spatstat NAMESPACE file
+
+import(stats,graphics,grDevices,utils)
+import(Matrix)
+importFrom(abind,abind)
+importFrom(tensor,tensor)
+importFrom(mgcv,
+           gam,gam.control,anova.gam,formula.gam,predict.gam,
+           print.gam,summary.gam,vcov.gam,s)
+import(polyclip,goftest)
+importFrom(deldir,
+           deldir,duplicatedxy,tile.list)
+import(spatstat.utils)
+import(spatstat.data)
+import(spatstat.sparse)
+import(spatstat.geom)
+import(spatstat.core)
+import(spatstat.linnet)
+
+# no dynamic library
+
+# Do not edit the following.
+# It is generated automatically.
+
+
+
+
+# .................................................. 
+#  load dynamic library
+#      (native routines are now registered in init.c)
+# .................................................. 
+
+# There is no dynamic library
+# useDynLib(spatstat, .registration=TRUE)
+
+# .................................................. 
+# Automatically-generated list of documented objects 
+# .................................................. 
+export("beginner")
+export("bugfixes")
+export("foo")
+export("latest.news")
+export("plot.foo")
+
+# .......  Special cases ........... 
+# .......  End of special cases  ... 
+
+# ......................................... 
+# Automatically generated list of S3 methods
+# ......................................... 
+S3method("plot", "foo")
+# ......................................... 
+#      Assignment methods                   
+# ......................................... 
+# ......................................... 
+#      End of methods                       
+# ......................................... 

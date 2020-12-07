@@ -3,6 +3,7 @@
 ## This is the EXPERIMENTAL 'umbrella' package
 
 This is an EXPERIMENTAL package UNDER DEVELOPMENT.
+It is not ready for users to download.
 
 This package contains almost no code from the original `spatstat` package.
 It contains only the documentation, vignettes, and introductory
@@ -13,7 +14,7 @@ This package *depends* on the packages `spatstat.utils`,
 and `spatstat.linnet`. After installing all these packages, you can just
 type `library(spatstat)` and the entire suite of packages will be loaded.
 
-## Are you a user, wanting to download the `spatstat` package?
+## Are you looking for the `spatstat` package to download?
 
 The current release of the `spatstat` package is available on 
 the [CRAN page](https://cran.r-project.org/web/packages/spatstat).

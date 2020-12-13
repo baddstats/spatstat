@@ -1,18 +1,9 @@
 # spatstat NAMESPACE file
 
-import(stats,graphics,grDevices,utils)
-import(Matrix)
-importFrom(abind,abind)
-importFrom(tensor,tensor)
-importFrom(mgcv,
-           gam,gam.control,anova.gam,formula.gam,predict.gam,
-           print.gam,summary.gam,vcov.gam,s)
-import(polyclip,goftest)
-importFrom(deldir,
-           deldir,duplicatedxy,tile.list)
+importFrom(utils, RShowDoc, news, page, read.table)
+
 import(spatstat.utils)
 import(spatstat.data)
-import(spatstat.sparse)
 import(spatstat.geom)
 import(spatstat.core)
 import(spatstat.linnet)

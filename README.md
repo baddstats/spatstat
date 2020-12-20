@@ -3,7 +3,6 @@
 ## This is the EXPERIMENTAL 'umbrella' package
 
 This is an EXPERIMENTAL package UNDER DEVELOPMENT.
-It is not ready for users to download.
 
 This package contains almost no code from the original `spatstat` package.
 It contains only the documentation, vignettes, and introductory

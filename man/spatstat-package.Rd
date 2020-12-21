@@ -5,15 +5,16 @@
 \title{The Spatstat Package}
 \description{
   This is a summary of the features of 
-  \pkg{spatstat}, a package in \R 
+  \pkg{spatstat}, a family of \R packages
   for the statistical analysis of spatial point patterns.
 }
 \details{
-  \pkg{spatstat} is a package for the statistical analysis
+  \pkg{spatstat} is a family of \R packages
+  for the statistical analysis
   of spatial data. Its main focus is the analysis of
   spatial patterns of points in two-dimensional space.
 
-  The package is designed to support a complete statistical analysis
+  \pkg{spatstat} is designed to support a complete statistical analysis
   of spatial data. It supports
   \itemize{
     \item creation, manipulation and plotting of point patterns;
@@ -109,7 +110,7 @@
     \item \pkg{spatstat.geom} containing functionality for geometrical
     operations, and defining the main classes of spatial objects
     \item \pkg{spatstat.core} containing the main functions for statistical
-    analysis of spatial data
+    analysis and modelling of spatial data
     \item \pkg{spatstat.linnet} containing functions for
     spatial data on a linear network
     \item \pkg{spatstat}, which simply loads the other sub-packages

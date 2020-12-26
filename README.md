@@ -13,6 +13,8 @@ This package *depends* on the packages `spatstat.utils`,
 and `spatstat.linnet`. After installing all these packages, you can just
 type `library(spatstat)` and the entire suite of packages will be loaded.
 
+![Spatstat pieces](RepoStuff/newspatstat.jpg)
+
 ## Are you looking for the `spatstat` package to download?
 
 The current release of the `spatstat` package is available on 

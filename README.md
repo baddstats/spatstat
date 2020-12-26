@@ -1,4 +1,4 @@
-# spatstat (umbrella package)
+# spatstat (experimental, 'umbrella' package)
 
 ## Are you looking for the `spatstat` package to download?
 

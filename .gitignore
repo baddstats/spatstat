@@ -21,3 +21,6 @@ src/*.gcno
 
 # .o files
 src/*o
+
+# xfig backup files
+*.bak

@@ -32,6 +32,8 @@ export("bugfixes")
 export("foo")
 export("latest.news")
 export("plot.foo")
+export("print.autoexec")    
+export("print.bugtable")
 
 # .......  Special cases ........... 
 # .......  End of special cases  ... 
@@ -40,6 +42,8 @@ export("plot.foo")
 # Automatically generated list of S3 methods
 # ......................................... 
 S3method("plot", "foo")
+S3method("print", "autoexec")
+S3method("print", "bugtable")
 # ......................................... 
 #      Assignment methods                   
 # ......................................... 

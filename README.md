@@ -35,7 +35,7 @@ The sub-packages will be submitted to CRAN in the following sequence.
 Each submission step requires that the previous submissions have been
 accepted and propagated across the CRAN network.
 
-1. `spatstat.utils 1.20-0`. Was submitted to CRAN on 05 January 2021.
+1. `spatstat.utils 1.20-1`. Was submitted to CRAN on 06 January 2021.
 Available now at the GitHub repository
 [spatstat/spatstat.utils](https://github.com/spatstat/spatstat.utils).
 

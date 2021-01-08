@@ -36,14 +36,14 @@ Each submission step requires that the previous submissions have been
 accepted and propagated across the CRAN network.
 
 1. `spatstat.utils 1.20-2`
-<span style="color:green">was submitted</span>
+was submitted
 to CRAN on 07 January 2021,
 accepted 08 January, and is percolating through CRAN.
 Also available at the GitHub repository
 [spatstat/spatstat.utils](https://github.com/spatstat/spatstat.utils).
 
 2. `spatstat.sparse 1.2-0` 
-<span style="color:green">was submitted</span>
+was submitted
 to CRAN on 08 January 2021,
 and accepted 08 January. It is percolating through CRAN.
 Also available at the GitHub repository

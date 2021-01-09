@@ -49,21 +49,16 @@ and accepted 08 January. It is percolating through CRAN.
 Also available at the GitHub repository
 [spatstat/spatstat.sparse](https://github.com/spatstat/spatstat.sparse).
 
-3. `spatstat.geom 1.65-0` and `spatstat.core 1.65-0`, to be submitted at the
-same time because they are interdependent.
-Estimated submission date: 12 January 2021.
-Available now at the GitHub repositories
-[spatstat/spatstat.geom](https://github.com/spatstat/spatstat.geom)
-and 
-[spatstat/spatstat.core](https://github.com/spatstat/spatstat.core).
-
-4. `spatstat.linnet 1.65-0`.
-Estimated submission date: 19 January 2021.
-Available now at the GitHub repository
+3. `spatstat.geom 1.65-1`, `spatstat.core 1.65-0` and
+`spatstat.linnet 1.65-0` were submitted to CRAN on 09 January 2021.
+They are available now at the GitHub repositories
+[spatstat/spatstat.geom](https://github.com/spatstat/spatstat.geom),
+[spatstat/spatstat.core](https://github.com/spatstat/spatstat.core)
+and
 [baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet).
 
-5. `spatstat.local`, `spatstat.Knet`, `spatstat.gui`.
-Estimated submission date: 25 January 2021.
+4. `spatstat.local`, `spatstat.Knet`, `spatstat.gui`.
+Estimated submission date: 15 January 2021.
 These extension packages will be updated before submission to CRAN.
 The current versions of these packages are at the GitHub repositories
 [baddstats/spatstat.local](https://github.com/baddstats/spatstat.local),

@@ -61,28 +61,27 @@ and is being processed.
 It is available now at the GitHub repository
 [baddstats/spatstat.local](https://github.com/baddstats/spatstat.local).
 
-7. `spatstat.Knet`, `spatstat.gui`.
+7. `spatstat.utils 2.0-0` was submitted to CRAN on 24 january 2021
+and is being processed.
+It is available now at the GitHub repository
+[spatstat/spatstat.utils](https://github.com/spatstat/spatstat.utils).
+It _Suggests_ `spatstat.core` rather than the big old `spatstat`.
+
+8. `spatstat.Knet`, `spatstat.gui`.
 Estimated submission date: 29 January 2021.
 Available now at the GitHub repositories
 [spatstat/spatstat.Knet](https://github.com/spatstat/spatstat.Knet) and
 [spatstat/spatstat.gui](https://github.com/spatstat/spatstat.gui).
 
-8. The umbrella package `spatstat 2.0-0`, available at this repository.
+9. The umbrella package `spatstat 2.0-0`, available at this repository.
 Estimated submission date: 04 February 2021.
 
-9. `spatstat.utils 2.0-0`.
-Estimated submission date: 10 February 2021.
-This will be a minor revision of the current
-[spatstat/spatstat.utils](https://github.com/spatstat/spatstat.utils)
-which Suggests the umbrella package `spatstat 2.0-0`
-rather than the big old `spatstat`.
-   
 10. `spatstat.data 2.0-0`.
 Estimated submission date: 12 February 2021.
 This will be a minor revision of the current
-[spatstat/spatstat.utils](https://github.com/spatstat/spatstat.utils)
+[spatstat/spatstat.data](https://github.com/spatstat/spatstat.data)
 which Suggests the umbrella package `spatstat 2.0-0`
-rather than the big old `spatstat`.
+rather than the big old `spatstat`. It will also include a new dataset.
 
 11. `spatstat.geom 2.0-0`, `spatstat.core 2.0-0`, `spatstat.linnet 2.0-0`.
 Estimated submission date: 19 February 2021.
@@ -92,5 +91,5 @@ These will be updates of the current
 [baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet)
 which will Suggest the umbrella package `spatstat 2.0-0`
 rather than the big old `spatstat`. They will also include further
-performance improvements.
+improvements.
 

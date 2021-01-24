@@ -36,8 +36,6 @@ Each submission step requires that the previous submissions have been
 accepted and propagated across the CRAN network.
 
 1. `spatstat.utils 1.20-2` is now on CRAN. 
-It is also available at the GitHub repository
-[spatstat/spatstat.utils](https://github.com/spatstat/spatstat.utils).
 
 2. `spatstat.sparse 1.2-0` is now on CRAN.
 It is also available at the GitHub repository

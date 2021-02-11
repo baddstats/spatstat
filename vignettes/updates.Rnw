@@ -81,7 +81,9 @@ mergeSizeTables <- function(a, b, breakupdate) {
 }
 z <- getSizeTable()
 ## handle the case where spatstat is the umbrella package
-if(isTRUE(getSpatstatVariable("Spatstat.Is.Umbrella"))) {
+isumb <- existsSpatstatVariable("Spatstat.Is.Umbrella") && 
+         isTRUE(getSpatstatVariable("Spatstat.Is.Umbrella"))
+if(isumb) {
   Bday <- "2020-12-14"
   zgeom <- getSizeTable("spatstat.geom")
   z <- mergeSizeTables(z, zgeom, Bday)

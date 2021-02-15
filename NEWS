@@ -3,9 +3,10 @@
 
 OVERVIEW
 
-    o We thank Corey Anderson, Andy Craig, Marcelino de la Cruz,
-    Tilman Davies, Pavel Fibich, Kurt Hornik, Gopalan Nair,
-    Yonatan Rosen and Rasmus Waagepetersen for contributions.
+    o We thank Corey Anderson, Michael Chirico, Andy Craig,
+    Marcelino de la Cruz, Tilman Davies, Pavel Fibich,
+    Kurt Hornik, Gopalan Nair, Yonatan Rosen and Rasmus Waagepetersen
+    for contributions.
 
     o spatstat has been divided into 7 sub-packages
     (spatstat.utils, spatstat.data, spatstat.sparse,

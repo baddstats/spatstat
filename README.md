@@ -8,9 +8,9 @@ the [CRAN page](https://cran.r-project.org/web/packages/spatstat).
 The current development version of `spatstat` is at 
 the [GitHub repository spatstat/spatstat](https://github.com/spatstat/spatstat).
 
-## This is the EXPERIMENTAL 'umbrella' package
+## This is the transitional 'umbrella' package
 
-This is an EXPERIMENTAL package UNDER DEVELOPMENT.
+This is a transitional package UNDER DEVELOPMENT.
 
 This package contains almost no code from the original `spatstat` package.
 It contains only the documentation, vignettes, and introductory

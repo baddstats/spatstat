@@ -28,12 +28,11 @@ It is also available at the GitHub repository
 [spatstat/spatstat.geom](https://github.com/spatstat/spatstat.geom),
 
 2. `spatstat.core` is now on CRAN.
-It is available now at the GitHub repository
+It is also available at the GitHub repository
 [spatstat/spatstat.core](https://github.com/spatstat/spatstat.core)
 
-3. `spatstat.linnet` was submitted to CRAN on 24 January 2021,
-resubmitted on 30 January 2021, and is now being processed.
-It is available now at the GitHub repository
+3. `spatstat.linnet` is now on CRAN. 
+It is also available at the GitHub repository
 [baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet).
 
 4. `spatstat.local 4.0-0` is now on CRAN.
@@ -54,7 +53,7 @@ rather than the big old `spatstat`.
 7. `spatstat.Knet`, `spatstat.gui`.
 Submitted to CRAN on 11 February 2021 and accepted 17 February 2021.
 These packages are now percolating through CRAN.
-Also available at the GitHub repositories
+Available now at the GitHub repositories
 [spatstat/spatstat.Knet](https://github.com/spatstat/spatstat.Knet) and
 [spatstat/spatstat.gui](https://github.com/spatstat/spatstat.gui).
 

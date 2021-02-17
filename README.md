@@ -9,6 +9,10 @@ code for beginners.
 
 ## The new structure of the 'spatstat' family
 
+The `spatstat` package in this repository is represented by the pink box
+in the diagram below. The yellow and green boxes are other sub-packages,
+and the blue boxes are extension packages.
+
 ![Spatstat pieces](RepoStuff/newspatstat.jpg)
 
 ## Rollout of new packages

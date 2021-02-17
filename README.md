@@ -52,21 +52,20 @@ It _Suggests_ `spatstat.geom`, `spatstat.core` and `spatstat.linnet`
 rather than the big old `spatstat`.
 
 7. `spatstat.Knet`, `spatstat.gui`.
-Estimated submission date: 17 February 2021.
-Available now at the GitHub repositories
+Submitted to CRAN on 11 February 2021 and accepted 17 February 2021.
+These packages are now percolating through CRAN.
+Also available at the GitHub repositories
 [spatstat/spatstat.Knet](https://github.com/spatstat/spatstat.Knet) and
 [spatstat/spatstat.gui](https://github.com/spatstat/spatstat.gui).
 
-7. The umbrella package `spatstat 2.0-0`, available at this repository.
-Estimated submission date: 19 February 2021.
+8. The umbrella package `spatstat 2.0-0`, available at this repository.
+Estimated submission date: 24 February 2021.
 
 9. `spatstat.geom 2.0-0`, `spatstat.core 2.0-0`, `spatstat.linnet 2.0-0`.
-Estimated submission date: 27 February 2021.
+Estimated submission date: 03 March 2021.
 These will be updates of the current 
 [spatstat/spatstat.geom](https://github.com/spatstat/spatstat.geom),
 [spatstat/spatstat.core](https://github.com/spatstat/spatstat.core) and
 [baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet)
-which will Suggest the umbrella package `spatstat 2.0-0`
-rather than the big old `spatstat`. They will also include further
-improvements.
-
+which will Suggest the umbrella package `spatstat 2.0-0`.
+They will also include further improvements.  

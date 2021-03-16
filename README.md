@@ -19,52 +19,32 @@ and the blue boxes are extension packages.
 
 ## Rollout of new packages
 
-The new sub-packages will be submitted to CRAN in the following sequence.
+The new sub-packages `spatstat.xxx` have all been published on CRAN
+with version numbers beginning with 1.
+
+The umbrella `spatstat` has now been published (13 march 2021) with
+version number `2.0-0`.
+
+The sub-packages must now be updated to version numbers beginning with 2.
 Each submission step requires that the previous submissions have been
 accepted and propagated across the CRAN network.
 
-1. `spatstat.geom` is now on CRAN.
-It is also available at the GitHub repository
-[spatstat/spatstat.geom](https://github.com/spatstat/spatstat.geom),
+1. `spatstat.utils 2.1-0` is now on CRAN.
 
-2. `spatstat.core` is now on CRAN.
-It is also available at the GitHub repository
-[spatstat/spatstat.core](https://github.com/spatstat/spatstat.core)
+2. `spatstat.sparse 2.0-0` was submitted to CRAN on 16 March 2021.
 
-3. `spatstat.linnet` is now on CRAN. 
-It is also available at the GitHub repository
+3. `spatstat.geom 2.0-0`.
+Estimated submission date: 19 March 2021.
+Available now at the GitHub repository
+[spatstat/spatstat.geom](https://github.com/spatstat/spatstat.geom).
+
+4. `spatstat.core 2.0-0`.
+Estimated submission date: 22 March 2021.
+Available now at the GitHub repository
+[spatstat/spatstat.core](https://github.com/spatstat/spatstat.core).
+
+5. `spatstat.linnet 2.0-0`.
+Estimated submission date: 25 March 2021.
+Available now at the GitHub repository
 [baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet).
 
-4. `spatstat.local 4.0-0` is now on CRAN.
-It is also available at the GitHub repository
-[baddstats/spatstat.local](https://github.com/baddstats/spatstat.local).
-
-5. `spatstat.utils 2.0-0` is now on CRAN.
-It is also available at the GitHub repository
-[spatstat/spatstat.utils](https://github.com/spatstat/spatstat.utils).
-It _Suggests_ `spatstat.core` rather than the big old `spatstat`.
-
-6. `spatstat.data 2.0-0` is now on CRAN.
-It is also available at the GitHub repository
-[spatstat/spatstat.data](https://github.com/spatstat/spatstat.data).
-It _Suggests_ `spatstat.geom`, `spatstat.core` and `spatstat.linnet`
-rather than the big old `spatstat`.
-
-7. `spatstat.Knet`, `spatstat.gui`.
-Submitted to CRAN on 11 February 2021 and accepted 17 February 2021.
-These packages are now percolating through CRAN.
-Available now at the GitHub repositories
-[spatstat/spatstat.Knet](https://github.com/spatstat/spatstat.Knet) and
-[spatstat/spatstat.gui](https://github.com/spatstat/spatstat.gui).
-
-8. The umbrella package `spatstat 2.0-0`, available at this repository.
-Estimated submission date: 24 February 2021.
-
-9. `spatstat.geom 2.0-0`, `spatstat.core 2.0-0`, `spatstat.linnet 2.0-0`.
-Estimated submission date: 03 March 2021.
-These will be updates of the current 
-[spatstat/spatstat.geom](https://github.com/spatstat/spatstat.geom),
-[spatstat/spatstat.core](https://github.com/spatstat/spatstat.core) and
-[baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet)
-which will Suggest the umbrella package `spatstat 2.0-0`.
-They will also include further improvements.  

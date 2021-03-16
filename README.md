@@ -23,7 +23,7 @@ The new sub-packages `spatstat.xxx` have all been published on CRAN
 with version numbers beginning with 1.
 
 The umbrella `spatstat` has now been published (13 march 2021) with
-version number `2.0-0`.
+version number `2.0-1`.
 
 The sub-packages must now be updated to version numbers beginning with 2.
 Each submission step requires that the previous submissions have been

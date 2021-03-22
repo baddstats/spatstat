@@ -31,20 +31,21 @@ accepted and propagated across the CRAN network.
 
 1. `spatstat.utils 2.1-0` is now on CRAN.
 
-2. `spatstat.sparse 2.0-0` was submitted to CRAN on 16 March 2021.
+2. `spatstat.sparse 2.0-0` is now on CRAN.
 
-3. `spatstat.geom 2.0-0`.
-Estimated submission date: 19 March 2021.
+3. `spatstat.linnet 2.0-0` is now on CRAN.
+
+4. `spatstat.geom 2.0-1` was submitted to CRAN on 18 March.
 Available now at the GitHub repository
 [spatstat/spatstat.geom](https://github.com/spatstat/spatstat.geom).
 
 4. `spatstat.core 2.0-0`.
-Estimated submission date: 22 March 2021.
+Estimated submission date: 24 March 2021.
 Available now at the GitHub repository
 [spatstat/spatstat.core](https://github.com/spatstat/spatstat.core).
 
-5. `spatstat.linnet 2.0-0`.
-Estimated submission date: 25 March 2021.
+5. `spatstat.linnet 2.1-0`.
+Estimated submission date: 29 March 2021.
 Available now at the GitHub repository
 [baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet).
 

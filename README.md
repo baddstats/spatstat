@@ -39,8 +39,7 @@ accepted and propagated across the CRAN network.
 
 5. `spatstat.core 2.0-0` is now on CRAN.
 
-6. `spatstat.linnet 2.1-0`.
-Estimated submission date: 27 March 2021.
+6. `spatstat.linnet 2.1-0` was submitted to CRAN on 26 March 2021.
 Available now at the GitHub repository
 [baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet).
 

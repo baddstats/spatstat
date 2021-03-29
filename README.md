@@ -17,29 +17,3 @@ and the blue boxes are extension packages.
 
 ![Spatstat pieces](RepoStuff/newspatstat.jpg)
 
-## Rollout of new packages
-
-The new sub-packages `spatstat.xxx` have all been published on CRAN
-with version numbers beginning with 1.
-
-The umbrella `spatstat` has now been published (13 march 2021) with
-version number `2.0-1`.
-
-The sub-packages must now be updated to version numbers beginning with 2.
-Each submission step requires that the previous submissions have been
-accepted and propagated across the CRAN network.
-
-1. `spatstat.utils 2.1-0` is now on CRAN.
-
-2. `spatstat.sparse 2.0-0` is now on CRAN.
-
-3. `spatstat.linnet 2.0-0` is now on CRAN.
-
-4. `spatstat.geom 2.0-1` is now on CRAN.
-
-5. `spatstat.core 2.0-0` is now on CRAN.
-
-6. `spatstat.linnet 2.1-0` was submitted to CRAN on 26 March 2021.
-Available now at the GitHub repository
-[baddstats/spatstat.linnet](https://github.com/baddstats/spatstat.linnet).
-
